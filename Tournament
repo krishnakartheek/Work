@@ -1,6 +1,6 @@
 <?php
 namespace SDM\RPS;
-class Tournamentwinner
+class RPSTournament
 {
     private const ROCK = 'R';
     private const PAPER = 'P';
